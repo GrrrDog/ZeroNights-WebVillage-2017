@@ -1,0 +1,15 @@
+{
+  "name": "nodedeser",
+  "version": "1.0.0",
+  "description": "Node deserialization vulnerability",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "greendog",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "node-serialize": "0.0.4"
+  }
+}
