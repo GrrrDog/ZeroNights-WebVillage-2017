@@ -1,4 +1,7 @@
 # ZeroNights-WebVillage-2017
+
+Tasks are based on [the presentation](https://www.slideshare.net/GreenD0g/deserialization-vulnerabilities) from [ZeroNights 2017](https://2017.zeronights.org/)
+
 Several simple webapps with deserialization vulnerabilities in Docker containers
 
 1) Python. Pickle
